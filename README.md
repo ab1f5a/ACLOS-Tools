@@ -2,17 +2,17 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Stable-green.svg)
-![Version](https://img.shields.io/badge/Version-1.0.2.1-blue.svg)
+![Version](https://img.shields.io/badge/Version-2.0.0-blue.svg)
 
 **ACLOS Tools** 是一款专为国服无畏契约启动器设计的工具箱，集成了更新拦截、配音修改的功能。
 ---
 
 ## ✨ 核心特性
 
-* **免安装单文件**：纯净绿色版 `.exe`，无需安装 Python 环境，即开即用。
+* **免安装单文件**：无需安装 Python 环境，即开即用。
 * **毫秒级实时拦截**：基于内核级文件系统监听，在更新请求生成的瞬间完成配置注入。
-* **智能权限锁定**：自动应用只读属性，防止目标程序在运行过程中自我修复或强制升级。
-* **自适应路径搜索**：内置全盘扫描逻辑，辅以手动文件选择器，确保精准定位启动器。
+* **智能权限锁定**：自动应用只读属性，防止启动器在运行过程中修复或强制升级。
+* **自适应路径搜索**：内置全盘扫描，辅以手动文件选择器，确保精准定位启动器。
 * **自动化工作流**：从权限提升、环境清理到监听退出，全流程自动化处理。
 
 ---
