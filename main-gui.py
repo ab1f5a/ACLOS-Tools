@@ -47,7 +47,7 @@ def S(value: int) -> int:
 def FS(size: int) -> int:
     return max(6, round(size * FONT_SCALE))
 
-CURRENT_VERSION = "2.0.0"
+CURRENT_VERSION = "2.0.1"
 VERSION_URL = "https://ab1f5a.net/v2/version.json"
 WINDOW_TITLE = f"ACLOS Tools v{CURRENT_VERSION}"
 
