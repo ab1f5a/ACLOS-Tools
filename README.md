@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Stable-green.svg)
-![Version](https://img.shields.io/badge/Version-2.0.0-blue.svg)
+![Version](https://img.shields.io/badge/Version-2.0.1-blue.svg)
 
 **ACLOS Tools** 是一款专为国服无畏契约启动器设计的工具箱，集成了更新拦截、配音修改的功能。
 ---
@@ -51,10 +51,10 @@
 ## 🤝 维护与更新
 
 * **作者**: ab1f5a
-* **当前版本**: 2.0.0
-* **更新说明**: ACLOS Tools 全新版本发布！
-                为工具添加新界面，简化配音修改逻辑，优化更新绕过补丁逻辑，减少打扰。
+* **当前版本**: 2.0.1
+* **更新说明**: 将更新拦截版本升级到最新启动器2.14.3，提升稳定性。
 * **历史更新日志：**
+* **2.0.0** - ACLOS Tools 全新版本发布！为工具添加新界面，简化配音修改逻辑，优化更新绕过补丁逻辑，减少打扰。
 * **1.0.2.1-Fix** - 修复ACLOS UPDATE PATCHER.exe Title内容错误的问题。仅作为补丁更新，版本未升级，功能与1.0.2.1完全相同。
 * **1.0.2.1** - 临时更新：修复桌面路径获取错误的问题。
 * **1.0.2** - 升级为 ACLOS Tools，内置配音修改，优化识别逻辑，加快拦截速度。
